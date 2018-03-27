@@ -1,0 +1,2 @@
+# daijobu
+are you ok?
